@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LenaSolutions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+379578f540af5f5ad01b796897a42f91372cd03c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+befc8d54b944a2e8961e4cff24754635ecbbeeff")]
 [assembly: System.Reflection.AssemblyProductAttribute("LenaSolutions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LenaSolutions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -97,8 +97,8 @@ class Program
         var scheduler = new EventScheduler(events, locationTransitions);
         var result = scheduler.GetMaxPrioritySchedule();
 
-        Console.WriteLine($"Max Events: {result.EventIds.Count}");
-        Console.WriteLine($"Event IDs: {string.Join(", ", result.EventIds)}");
-        Console.WriteLine($"Total Priority: {result.TotalPriority}");
+        Console.WriteLine($"Katılınabilecek Maksimum Etkinlik Sayısı: {result.EventIds.Count}");
+        Console.WriteLine($"Katılınabilecek Etkinliklerin ID'leri: {string.Join(", ", result.EventIds)}");
+        Console.WriteLine($"Toplam Değer: {result.TotalPriority}");
     }
 }

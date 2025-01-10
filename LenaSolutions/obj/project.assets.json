@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/umuttolek/Desktop/Case/LenaSolutions/AlgorithmProblem/LenaSolutions/LenaSolutions.csproj",
+      "projectUniqueName": "/Users/umuttolek/Desktop/Algo/LenaSolutionsAlgorithm/LenaSolutions/LenaSolutions.csproj",
       "projectName": "LenaSolutions",
-      "projectPath": "/Users/umuttolek/Desktop/Case/LenaSolutions/AlgorithmProblem/LenaSolutions/LenaSolutions.csproj",
+      "projectPath": "/Users/umuttolek/Desktop/Algo/LenaSolutionsAlgorithm/LenaSolutions/LenaSolutions.csproj",
       "packagesPath": "/Users/umuttolek/.nuget/packages/",
-      "outputPath": "/Users/umuttolek/Desktop/Case/LenaSolutions/AlgorithmProblem/LenaSolutions/obj/",
+      "outputPath": "/Users/umuttolek/Desktop/Algo/LenaSolutionsAlgorithm/LenaSolutions/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/umuttolek/.nuget/NuGet/NuGet.Config"
